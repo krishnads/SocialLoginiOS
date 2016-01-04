@@ -1,0 +1,19 @@
+//
+//  Info.pch
+//  SocialLoginDemo
+//
+//  Created by Krishana on 11/18/15.
+//  Copyright © 2015 Konstant Info Solutions Pvt. Ltd. All rights reserved.
+//
+
+#ifndef Info_pch
+#define Info_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+
+
+
+#endif /* Info_pch */
